@@ -31,9 +31,9 @@ histogram_enhancer image.jpg
 
 This will launch an interactive menu where you can choose from the following enhancement methods:
 
-   - Contrast Limited Adaptive Histogram Equalization (CLAHE)
-   - Global Histogram Equalization
-   - Gamma
+- Contrast Limited Adaptive Histogram Equalization (CLAHE)
+- Global Histogram Equalization
+- Gamma
 
 ## Examples
 
